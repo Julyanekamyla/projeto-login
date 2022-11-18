@@ -39,7 +39,7 @@ section#login {
 
 section#login > div#imagem {
   display: block;
-  background: white url(../imagens/entrada.jpg);
+  background: white url(./imagens/entrada.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: left bottom;
